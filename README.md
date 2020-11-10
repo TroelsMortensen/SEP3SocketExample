@@ -10,4 +10,7 @@ Both the C# and Java client is able to send to and receive from the Java and the
 * C# <-> Java
 * C# <-> C#
 
-I'm currently using sockets, it looks very low level. Planning on updating with a version 2.0 soon.
+These classes are suffixed with 'A' and 'B'.
+
+I'm currently using sockets, it looks very low level, with some binary hoop jumping. 
+Planning on updating with a version 2.0 soon.
